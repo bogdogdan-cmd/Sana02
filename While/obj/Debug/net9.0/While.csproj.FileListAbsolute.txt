@@ -1,0 +1,15 @@
+C:\Users\bogdo\Documents\Sana\Sana02\While\obj\Debug\net9.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogdo\Documents\Sana\Sana02\While\obj\Debug\net9.0\While.AssemblyInfoInputs.cache
+C:\Users\bogdo\Documents\Sana\Sana02\While\obj\Debug\net9.0\While.AssemblyInfo.cs
+C:\Users\bogdo\Documents\Sana\Sana02\While\obj\Debug\net9.0\While.csproj.CoreCompileInputs.cache
+C:\Users\bogdo\Documents\Sana\Sana02\While\obj\Debug\net9.0\While.sourcelink.json
+C:\Users\bogdo\Documents\Sana\Sana02\While\bin\Debug\net9.0\While.exe
+C:\Users\bogdo\Documents\Sana\Sana02\While\bin\Debug\net9.0\While.deps.json
+C:\Users\bogdo\Documents\Sana\Sana02\While\bin\Debug\net9.0\While.runtimeconfig.json
+C:\Users\bogdo\Documents\Sana\Sana02\While\bin\Debug\net9.0\While.dll
+C:\Users\bogdo\Documents\Sana\Sana02\While\bin\Debug\net9.0\While.pdb
+C:\Users\bogdo\Documents\Sana\Sana02\While\obj\Debug\net9.0\While.dll
+C:\Users\bogdo\Documents\Sana\Sana02\While\obj\Debug\net9.0\refint\While.dll
+C:\Users\bogdo\Documents\Sana\Sana02\While\obj\Debug\net9.0\While.pdb
+C:\Users\bogdo\Documents\Sana\Sana02\While\obj\Debug\net9.0\While.genruntimeconfig.cache
+C:\Users\bogdo\Documents\Sana\Sana02\While\obj\Debug\net9.0\ref\While.dll
